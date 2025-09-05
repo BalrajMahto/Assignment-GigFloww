@@ -95,7 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[Your Name] - [Your GitHub Profile]
+[BALRAJ MAHTO] - [https://github.com/BalrajMahto/Assignment-GigFloww]
 
 ## Acknowledgments
 
