@@ -148,7 +148,7 @@ const Navbar: React.FC = () => {
     <NavbarContainer>
       <Logo>
         <img src="/logo.svg" alt="EngineeredFloww Logo" />
-        GigFloww
+        EngineeredFloww
       </Logo>
 
       <NavLinks>
